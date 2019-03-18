@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2019-03-15T09:45:30.625219",
+  "title": "Hello World Mes arb",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  }
+}
